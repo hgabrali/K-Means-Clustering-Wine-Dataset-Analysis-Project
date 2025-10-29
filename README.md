@@ -15,13 +15,15 @@ This exercise provides a clear, documented example of unsupervised learning for 
 
 ## 🍷 Unsupervised Learning: Comparative Clustering Analysis on the Wine Dataset
 
-This repository documents an in-depth comparative study of three fundamental clustering algorithms—**K-Means, Hierarchical Clustering (Agglomerative), and DBSCAN**—using the classic **Wine Dataset** from scikit-learn. The project focuses on the end-to-end workflow of unsupervised pattern recognition, emphasizing data preparation, optimal parameter selection, and rigorous model evaluation.
+**Source Material:** This hands-on project is based on the curriculum and methodology presented in the **"Clustering Hands On"** module within the **Masterschool** Unsupervised Learning track.
+
+This repository documents an in-depth comparative study of three fundamental clustering algorithms—**K-Means, Hierarchical Clustering (Agglomerative), and DBSCAN**—using the classic **Wine Dataset** from scikit-learn. The project focuses on the end-to-end workflow of unsupervised pattern recognition, emphasizing data preparation, optimal parameter selection, and rigorous model evaluation, as per the established curriculum guidelines.
 
 ## 📊 Project Scope and Dataset Overview
 
 ### About the Dataset
 
-The Wine Dataset comprises **178 samples** and **13 distinct chemical features** (e.g., alcohol, malic_acid, flavanoids, color_intensity), all of which are continuous numerical attributes. The dataset inherently possesses a target column (cultivar type), which is **explicitly excluded** during model fitting to maintain the integrity of the unsupervised learning paradigm. The true labels are used *only* for post-clustering validation and comparative analysis.
+The Wine Dataset, a standard benchmark in classification, comprises **178 samples** and **13 distinct chemical features** (e.g., alcohol, malic_acid, flavanoids, color_intensity), all of which are continuous numerical attributes. The dataset inherently possesses a target column (cultivar type), which is **explicitly excluded** during model fitting to maintain the integrity of the unsupervised learning paradigm. The true labels are used *only* for post-clustering validation and comparative analysis.
 
 ---
 
