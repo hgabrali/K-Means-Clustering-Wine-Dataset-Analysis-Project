@@ -1,4 +1,4 @@
-## K-Means Clustering: Wine Dataset Analysis
+# K-Means Clustering: Wine Dataset Analysis
 
 This repository contains a complete, step-by-step implementation of the **K-Means Clustering** algorithm applied to the well-known **Wine Dataset** from scikit-learn.
 
@@ -13,7 +13,7 @@ This project serves as a practical exercise demonstrating key stages of a cluste
 
 This exercise provides a clear, documented example of unsupervised learning for data segmentation and pattern recognition.
 
-# 🍷 Unsupervised Learning: Comparative Clustering Analysis on the Wine Dataset
+## 🍷 Unsupervised Learning: Comparative Clustering Analysis on the Wine Dataset
 
 This repository documents an in-depth comparative study of three fundamental clustering algorithms—**K-Means, Hierarchical Clustering (Agglomerative), and DBSCAN**—using the classic **Wine Dataset** from scikit-learn. The project focuses on the end-to-end workflow of unsupervised pattern recognition, emphasizing data preparation, optimal parameter selection, and rigorous model evaluation.
 
